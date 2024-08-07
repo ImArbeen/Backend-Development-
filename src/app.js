@@ -16,4 +16,4 @@ app.use(cookieParser())
 
 const app = express ();
 
-export default app;
+export default app();
